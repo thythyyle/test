@@ -1,9 +1,6 @@
 hello
 
 this is a test file
-<<<<<<< HEAD
 this is a test from jupyterhub
-=======
 
-test on github
->>>>>>> aa81de0e3ea07d1dc5a30520d4a05232ffb75431
+fix gi
